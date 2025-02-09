@@ -1,0 +1,31 @@
+[
+    {
+        "firstName": "User",
+        "lastName": "One",
+        "email": "userOne@email.com",
+        "password": "test123",
+        "balance": "$123,456"
+    },
+    {
+        "firstName": "User",
+        "lastName": "Two",
+        "email": "userTwo@email.com",
+        "password": "test123",
+        "balance": "$654,321"
+    },
+    {
+        "firstName": "User",
+        "lastName": "Three",
+        "email": "userThree@email.com",
+        "password": "test123",
+        "balance": "$789,101"
+    },
+    {
+        "firstName": "User",
+        "lastName": "Four",
+        "email": "userFour@email.com",
+        "password": "test123",
+        "balance": "$11,235"
+    }
+
+]
